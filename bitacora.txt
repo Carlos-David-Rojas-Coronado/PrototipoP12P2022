@@ -1,0 +1,10 @@
+
+21/4/2022  11:58:52  	se registro un nuevo usuario:   David
+21/4/2022  11:59:23  	David se logueo
+21/4/2022  12:2:35  	David se logueo
+21/4/2022  12:3:24  	el ultimo usuario logueado ingreso un nuevo registro con id:  001
+21/4/2022  12:4:43  	el ultimo usuario logueado elimino el registro con id  001
+21/4/2022  12:8:36  	el ultimo usuario logueado ingreso un nuevo registro con id:  001
+21/4/2022  13:15:57  	se registro un nuevo usuario:   Pedro
+21/4/2022  13:16:24  	Pedro se logueo
+21/4/2022  13:17:35  	el ultimo usuario logueado ingreso un nuevo registro con id:  0031
